@@ -9,19 +9,11 @@ export const ABOUT_TEXT = `I am a dedicated and versatile full stack developer w
 
 export const EXPERIENCES = [
   {
-    year: "Dec 2021 - Present",
-    role: "Junior Consultant",
-    company: "Pierian Services",
-    description: `Migrated project from PHP Laravel to Node JS. Provided backend support for Power BI and Tableau, Managed data from APIs with scheduled cron jobs.Supported backend development using PHP, Laravel, and MSSQL.	Created user projects for asset management and suggestions.`,
-    technologies: [
-      "Node JS",
-      "MSSQL",
-      "Azure",
-      " PHP",
-      "Laravel",
-      "MSSQL",
-      "C3js",
-    ],
+    year: "2023 - Present",
+    role: "Senior Full Stack Developer",
+    company: "Google Inc.",
+    description: `Led a team in developing and maintaining web applications using JavaScript, React.js, and Node.js. Implemented RESTful APIs and integrated with MongoDB databases. Collaborated with stakeholders to define project requirements and timelines.`,
+    technologies: ["Javascript", "React.js", "Next.js", "mongoDB"],
   },
   {
     year: "June 2020 - Sep 2022",
