@@ -3,9 +3,9 @@ import project2 from "../assets/projects/project-2.jpg";
 import project3 from "../assets/projects/project-3.jpg";
 import project4 from "../assets/projects/project-4.jpg";
 
-export const HERO_CONTENT = `I am a passionate full stack developer with a knack for crafting robust and scalable web applications. With 5.5 years of hands-on experience, I have honed my skills in front-end technologies like ReactJS, Bootstrap and TailwindCSS, as well as back-end technologies like PHP,Laravel framework, MySQL, MSSQL, PostgreSQL, and MongoDB. My goal is to leverage my expertise to create innovative solutions that drive business growth and deliver exceptional user experiences.`;
+export const HERO_CONTENT = `I am a passionate full stack developer with a knack for crafting robust and scalable web applications. With 5 years of hands-on experience, I have honed my skills in front-end technologies like ReactJS, Bootstrap and TailwindCSS, as well as back-end technologies like PHP,Laravel framework, MySQL, MSSQL, PostgreSQL, and MongoDB. My goal is to leverage my expertise to create innovative solutions that drive business growth and deliver exceptional user experiences.`;
 
-export const ABOUT_TEXT = `I am a dedicated and versatile full stack developer with a passion for creating efficient and user-friendly web applications. With 5.5 years of professional experience, I have worked with a variety of technologies, including React, PHP, Python, MySQL, PostgreSQL, and MongoDB. My journey in web development began with a deep curiosity for how things work, and it has evolved into a career where I continuously strive to learn and adapt to new challenges. I thrive in collaborative environments and enjoy solving complex problems to deliver high-quality solutions. Outside of coding, I enjoy staying active, exploring new technologies, and contributing to open-source projects.`;
+export const ABOUT_TEXT = `I am a dedicated and versatile full stack developer with a passion for creating efficient and user-friendly web applications. With 5 years of professional experience, I have worked with a variety of technologies, including React, PHP, Python, MySQL, PostgreSQL, and MongoDB. My journey in web development began with a deep curiosity for how things work and it has evolved into a career where I continuously strive to learn and adapt to new challenges. I thrive in collaborative environments and enjoy solving complex problems to deliver high-quality solutions. Outside of coding, I enjoy staying active, exploring new technologies, and contributing to open-source projects.`;
 
 export const EXPERIENCES = [
   {
@@ -36,22 +36,6 @@ export const EXPERIENCES = [
       "Bootstrap",
       "CSS",
       "HTML5",
-    ],
-  },
-  {
-    year: "Feb 2020 - Mar 2020",
-    role: "Software Engineer",
-    company: "Sam Analytics",
-    description: `Generated dynamic bar charts based on constituency data. Optimized SQL queries and designed database architecture. Created a dynamic portal with an admin panel for content management. Developed a registration website for job fairs.`,
-    technologies: [
-      "PHP",
-      "Mysql",
-      "AJAX",
-      "JavaScript",
-      "Bootstrap",
-      "CSS",
-      "HTML",
-      "C3JS",
     ],
   },
   {
@@ -124,54 +108,6 @@ export const PROJECTS = [
       "Bootstrap",
       "CSS",
       "HTML5",
-    ],
-  },
-  {
-    title:
-      "Portal for Political Campaign (Dec 2019 - Feb 2020) - Sam Analytics",
-    image: project1,
-    description:
-      "Created a dynamic portal with an admin panel for content management.",
-    technologies: [
-      "PHP",
-      "MySQLi",
-      "AJAX",
-      "JavaScript",
-      "Bootstrap",
-      "CSS",
-      "HTML5",
-    ],
-  },
-  {
-    title:
-      "Dynamic Chart Visualization Project (Feb 2020 - Mar 2020) - Sam Analytics",
-    image: project1,
-    description:
-      "Generated dynamic bar charts based on constituency data. Optimized SQL queries and designed database architecture.",
-    technologies: [
-      "PHP",
-      "Mysql",
-      "AJAX",
-      "JavaScript",
-      "Bootstrap",
-      "CSS",
-      "HTML",
-      "C3JS",
-    ],
-  },
-  {
-    title: "Website for Job Fair (Sep 2019 - Dec 2019) - Sam Analytics",
-    image: project1,
-    description: "Developed a registration website for job fairs.",
-    technologies: [
-      "PHP",
-      "Mysql",
-      "AJAX",
-      "JavaScript",
-      "Bootstrap",
-      "CSS",
-      "HTML",
-      "C3JS",
     ],
   },
   {
